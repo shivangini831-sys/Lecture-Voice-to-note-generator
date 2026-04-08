@@ -1,4 +1,4 @@
-###Lecture Voice to Notes Generator###
+Lecture Voice to Notes Generator 
 
 1. Abstract
 
